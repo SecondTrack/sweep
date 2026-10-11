@@ -1,0 +1,8 @@
+/* Tasks — task killer / free RAM */
+"Tasks" = "Tasks";
+"Free memory" = "Free memory";
+"of %@ total" = "of %@ total";
+"Close all" = "Close all";
+"Close" = "Close";
+"Running apps (%d)" = "Running apps (%d)";
+"No apps running" = "No apps running";

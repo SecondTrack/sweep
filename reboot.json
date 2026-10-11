@@ -1,0 +1,16 @@
+{
+  "id": "tasks",
+  "name": "Tasks",
+  "short": "Speicher frei machen",
+  "category": "Werkzeuge",
+  "status": "da",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.tasks",
+  "version": "0.1.0",
+  "repo": "SecondTrack/tasks",
+  "requires": "",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}
