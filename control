@@ -1,9 +1,0 @@
-Package: de.mesh.tasks
-Name: Tasks
-Version: 0.1.0
-Architecture: iphoneos-arm
-Description: Task-Killer und RAM frei machen
-Maintainer: Second Track
-Author: Second Track
-Section: Utilities
-Depends: firmware (>= 6.0)
