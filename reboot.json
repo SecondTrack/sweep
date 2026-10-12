@@ -1,5 +1,5 @@
 {
-  "id": "tasks",
+  "id": "sweep",
   "name": "Sweep",
   "short": "Free up memory",
   "category": "Tools",
@@ -9,7 +9,7 @@
   ],
   "package": "de.mesh.tasks",
   "version": "0.1.2",
-  "repo": "SecondTrack/tasks",
+  "repo": "SecondTrack/sweep",
   "requires": "",
   "license": "GPL-3.0",
   "install": "GitHub release: latest release, *.deb asset",
