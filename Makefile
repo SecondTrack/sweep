@@ -11,7 +11,8 @@ Tasks_CFLAGS = -fobjc-arc -O2 -Wall -Isrc
 
 TOOL_NAME = tkkill
 tkkill_FILES = src/tkkill.c
-tkkill_CFLAGS = -Wall
+tkkill_CFLAGS = -Wall -O2
+tkkill_INSTALL_PATH = /Applications/Tasks.app
 
 include $(THEOS_MAKE_PATH)/application.mk
 include $(THEOS_MAKE_PATH)/tool.mk

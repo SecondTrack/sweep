@@ -1,0 +1,5 @@
+#!/bin/sh
+# tkkill braucht root (setuid), nimmt aber nur Befehle der App Sweep an und beendet nur Apps (siehe src/tkkill.c)
+chown root:wheel /Applications/Tasks.app/tkkill
+chmod 4755 /Applications/Tasks.app/tkkill
+exit 0
