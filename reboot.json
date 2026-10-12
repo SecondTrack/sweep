@@ -1,8 +1,8 @@
 {
   "id": "tasks",
   "name": "Tasks",
-  "short": "Speicher frei machen",
-  "category": "Werkzeuge",
+  "short": "Free up memory",
+  "category": "Tools",
   "status": "da",
   "ios": [
     "6.1.6"
@@ -12,5 +12,22 @@
   "repo": "SecondTrack/tasks",
   "requires": "",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.tasks",
+  "text": "Shows free memory and running apps – and closes them all with one tap.",
+  "features": [
+    "Free memory at a glance",
+    "Show running apps",
+    "Close all with one tap"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/tasks/main/Resources/Icon@2x.png",
+  "private": false,
+  "short_de": "Speicher frei machen",
+  "category_de": "Werkzeuge",
+  "text_de": "Zeigt freien Arbeitsspeicher und laufende Apps – und schließt alle mit einem Tipp.",
+  "features_de": [
+    "Freier Arbeitsspeicher auf einen Blick",
+    "Laufende Apps anzeigen",
+    "Alle mit einem Tipp schließen"
+  ]
 }

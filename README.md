@@ -1,38 +1,38 @@
 # Tasks
 
-**Speicher frei machen**
+**Free up memory**
 
-Zeigt freien Arbeitsspeicher und laufende Apps – und schließt alle mit einem Tipp.
+Shows free memory and running apps – and closes them all with one tap.
 
-## Das kann die App
+## Features
 
-- Freier Arbeitsspeicher auf einen Blick
-- Laufende Apps anzeigen
-- Alle mit einem Tipp schließen
+- Free memory at a glance
+- Show running apps
+- Close all with one tap
 
-## Läuft auf
+## Runs on
 
-iOS 6.1.6 · gejailbreakter iPod touch
+iOS 6.1.6 · jailbroken iPod touch
 
-## Installieren
+## Install
 
-Am einfachsten über den **[Reboot Appstore](https://github.com/SecondTrack/reboot)** direkt auf dem iPod.
-Von Hand: das `.deb` aus dem [neuesten Release](https://github.com/SecondTrack/tasks/releases/latest) laden und mit `dpkg -i` installieren, danach `uicache`.
+The easiest way is the **[Reboot App Store](https://github.com/SecondTrack/reboot)** right on the iPod.
+By hand: download the `.deb` from the [latest release](https://github.com/SecondTrack/tasks/releases/latest), install it with `dpkg -i`, then run `uicache`.
 
-## Selbst bauen
+## Build it yourself
 
-Mit [Theos](https://theos.dev) (iOS-SDK mit armv7):
+With [Theos](https://theos.dev) (iOS SDK with armv7):
 
 ```sh
 make package
 ```
 
-## Teil von Reboot
+## Part of Reboot
 
-Diese App gehört zu **Reboot** von [Second Track](https://secondtrack.de) – neue Apps für alte iPods.
-Alle Apps: [SecondTrack](https://github.com/SecondTrack).
+This app is part of **Reboot** by **Second Track** – new apps for old iPods.
+All apps: [SecondTrack](https://github.com/SecondTrack).
 
-## Lizenz
+## License
 
-GPL-3.0 – siehe [LICENSE](LICENSE). Mitgelieferte Bibliotheken unter `vendor/` behalten ihre eigenen Lizenzen.
-Nicht mit Apple verbunden. iPod ist eine Marke von Apple Inc.
+GPL-3.0 – see [LICENSE](LICENSE). Bundled libraries under `vendor/` keep their own licenses.
+Not affiliated with Apple. iPod is a trademark of Apple Inc.
