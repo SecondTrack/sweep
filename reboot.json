@@ -1,6 +1,6 @@
 {
   "id": "tasks",
-  "name": "Tasks",
+  "name": "Sweep",
   "short": "Free up memory",
   "category": "Tools",
   "status": "da",
@@ -8,7 +8,7 @@
     "6.1.6"
   ],
   "package": "de.mesh.tasks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repo": "SecondTrack/tasks",
   "requires": "",
   "license": "GPL-3.0",
@@ -29,5 +29,6 @@
     "Freier Arbeitsspeicher auf einen Blick",
     "Laufende Apps anzeigen",
     "Alle mit einem Tipp schließen"
-  ]
+  ],
+  "name_de": "Sweep"
 }
