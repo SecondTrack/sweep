@@ -1,0 +1,9 @@
+Package: de.mesh.tasks
+Name: Sweep
+Version: 0.1.4
+Architecture: iphoneos-arm
+Description: Task-Killer und RAM frei machen
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 5.0)
